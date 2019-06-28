@@ -1,4 +1,0 @@
-#!/usr/bin/env ruby
-
-require './lib/us_cli'
-UsCli::CLI.new.call
